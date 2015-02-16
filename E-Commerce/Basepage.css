@@ -1,0 +1,61 @@
+.Header_bar {
+    text-align: right;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: green;
+}
+
+.Fonts {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.Caption {
+    margin-right: 1087px;
+
+}
+.Search {
+    margin-right: 40px;
+    margin-top: -28px;
+}
+
+.Template_bar {
+    padding: 30px 0;
+    background-color: #1b1b1b;
+    height: 28px;
+}
+
+.Home {
+    margin-left: 890px;
+}
+
+.Catalog {
+    margin-left: 985px;
+    margin-top: -22px;
+}
+
+.Contact-Us {
+    margin-left: 1091px;
+    margin-top: -22px;
+}
+
+.Admin {
+    margin-left: 1224px;
+    margin-top: -22px;
+}
+
+.Left_column {
+    background-color: #1b1b1b;
+}
+
+.Centre_Image {
+    background-color: #1b1b1b;
+}
+
+.Shopping_Matrix {
+    background-color: #1b1b1b;
+}
+
+.Cart {
+    margin-right: 350px;
+}
